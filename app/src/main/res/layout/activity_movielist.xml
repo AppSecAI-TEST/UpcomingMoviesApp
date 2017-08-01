@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cdMovieList"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/android_background"
+    tools:context="com.example.upcomingmoviesapp.activity.MovielistActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/tb_movieList"
+            layout="@layout/toolbar" />
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rvMovieList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tb_movieList"
+            android:layout_margin="@dimen/_10sdp" />
+
+    </RelativeLayout>
+</android.support.design.widget.CoordinatorLayout>

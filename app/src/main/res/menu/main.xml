@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_movieList"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        android:title="Movies List"
+        tools:ignore="AppCompatResource" />
+    <item
+        android:id="@+id/menu_movieDetails"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:title="Movies Details"
+        tools:ignore="AppCompatResource" />
+
+    <item
+        android:id="@+id/menu_info"
+        android:orderInCategory="3"
+        android:showAsAction="never"
+        android:title="Information"
+        tools:ignore="AppCompatResource" />
+</menu>

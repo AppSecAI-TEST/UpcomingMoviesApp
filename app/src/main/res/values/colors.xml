@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="color_header">#ffb143</color>
+    <color name="color_footer">#555555</color>
+
+
+    <color name="color_app_button">#295e29</color>
+
+    <color name="color_list_background">#f9f0e7</color>
+
+    <color name="color_text_label">#555555</color>
+    <color name="color_text_value">#868686</color>
+    <color name="color_child">#e1e4fe</color>
+
+    <color name="toolbarColor">#CC4139</color>
+
+
+
+
+
+    <color name="colorPrimary">#8a3928</color>
+    <color name="tbcolor">#f19d28</color>
+    <color name="colorPrimaryDark">#8a3928</color>
+    <color name="accent">#8a3928</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_app_text">#FFFFFF</color>
+    <color name="color_processed_urn">#f5eb99</color>
+    <color name="color_layout_background">#ffffff</color>
+    <color name="color_shadow_text">#f9f9f9</color>
+    <color name="drawer_color">#f9f0e7</color>
+
+</resources>

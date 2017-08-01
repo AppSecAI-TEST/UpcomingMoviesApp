@@ -1,0 +1,68 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_drawer_width">255dp</dimen>
+
+
+
+    <!--Font sizes-->
+    <dimen name="_10sp">9sp</dimen>
+    <dimen name="_12sp">11sp</dimen>
+    <dimen name="_14sp">13sp</dimen>
+    <dimen name="_16sp">15sp</dimen>
+    <dimen name="_18sp">17sp</dimen>
+    <dimen name="_20sp">19sp</dimen>
+    <dimen name="_22sp">21sp</dimen>
+    <dimen name="_24sp">23sp</dimen>
+    <dimen name="_30sp">29sp</dimen>
+
+   <!-- Dimensions -->
+    <dimen name="_2dp">2dp</dimen>
+    <dimen name="_4dp">4dp</dimen>
+    <dimen name="_6dp">4dp</dimen>
+    <dimen name="_8dp">7dp</dimen>
+    <dimen name="_12dp">10dp</dimen>
+    <dimen name="_14dp">12dp</dimen>
+    <dimen name="_16dp">14dp</dimen>
+    <dimen name="_18dp">16dp</dimen>
+
+    <dimen name="_22dp">20dp</dimen>
+    <dimen name="_24dp">22dp</dimen>
+    <dimen name="_26dp">24dp</dimen>
+    <dimen name="_28dp">25dp</dimen>
+    <dimen name="_32dp">29dp</dimen>
+    <dimen name="_34dp">31dp</dimen>
+    <dimen name="_36dp">33dp</dimen>
+    <dimen name="_38dp">35dp</dimen>
+
+
+    <dimen name="_5dp">4dp</dimen>
+    <dimen name="_10dp">8dp</dimen>
+    <dimen name="_15dp">13dp</dimen>
+    <dimen name="_20dp">18dp</dimen>
+    <dimen name="_25dp">23dp</dimen>
+    <dimen name="_30dp">27dp</dimen>
+    <dimen name="_35dp">32dp</dimen>
+    <dimen name="_40dp">37dp</dimen>
+    <dimen name="_48dp">45dp</dimen>
+
+    <dimen name="_80dp">75dp</dimen>
+
+    <dimen name="_115dp">115dp</dimen>
+    <dimen name ="_90dp">60dp</dimen>
+    <dimen name="_120dp">80dp</dimen>
+
+    <!--Login screen margin for login title-->
+    <dimen name="_100dp">100dp</dimen>
+    <dimen name="_200dp">200dp</dimen>
+    <dimen name="_300dp">300dp</dimen>
+    <dimen name="_400dp">400dp</dimen>
+
+    <dimen name="_150dp">150dp</dimen>
+    <dimen name="_250dp">250dp</dimen>
+    <dimen name="_350dp">350dp</dimen>
+    <dimen name="_450dp">450dp</dimen>
+
+
+</resources>

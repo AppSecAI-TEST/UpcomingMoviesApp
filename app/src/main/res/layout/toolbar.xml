@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_38sdp"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:background="@color/color_header"
+    android:minHeight="?attr/actionBarSize"
+    android:elevation="@dimen/_10dp"
+    android:fitsSystemWindows="true"
+    android:id="@+id/toolbar"
+    android:theme="@style/ToolbarTheme"
+    local:popupTheme="@style/ThemeOverlay.AppCompat.Dark"
+    local:titleTextAppearance="@style/Toolbar.TitleText"
+    android:layout_alignParentTop="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/iv_info"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/_5sdp"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        android:src="@drawable/ic_action_info_outline"
+        />
+
+
+
+        <TextView
+            android:id="@+id/tb_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="asdadasd"
+            android:textColor="@android:color/black"
+            android:gravity="center"
+            android:textSize="@dimen/_15sdp"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+</android.support.v7.widget.Toolbar>

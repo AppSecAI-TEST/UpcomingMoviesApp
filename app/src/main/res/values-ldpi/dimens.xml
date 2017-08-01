@@ -1,0 +1,66 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_drawer_width">250dp</dimen>
+
+
+
+    <!--Font sizes-->
+    <dimen name="_10sp">8sp</dimen>
+    <dimen name="_12sp">10sp</dimen>
+    <dimen name="_14sp">12sp</dimen>
+    <dimen name="_16sp">14sp</dimen>
+    <dimen name="_18sp">16sp</dimen>
+    <dimen name="_20sp">18sp</dimen>
+    <dimen name="_22sp">20sp</dimen>
+    <dimen name="_24sp">22sp</dimen>
+    <dimen name="_30sp">28sp</dimen>
+
+   <!-- Dimensions -->
+    <dimen name="_2dp">2dp</dimen>
+    <dimen name="_4dp">3dp</dimen>
+    <dimen name="_6dp">4dp</dimen>
+    <dimen name="_8dp">6dp</dimen>
+    <dimen name="_12dp">9dp</dimen>
+    <dimen name="_14dp">11dp</dimen>
+    <dimen name="_16dp">13dp</dimen>
+    <dimen name="_18dp">15dp</dimen>
+
+    <dimen name="_22dp">18dp</dimen>
+    <dimen name="_24dp">20dp</dimen>
+    <dimen name="_26dp">22dp</dimen>
+    <dimen name="_28dp">24dp</dimen>
+    <dimen name="_32dp">27dp</dimen>
+    <dimen name="_34dp">29dp</dimen>
+    <dimen name="_36dp">31dp</dimen>
+    <dimen name="_38dp">33dp</dimen>
+
+
+    <dimen name="_5dp">2dp</dimen>
+    <dimen name="_10dp">7dp</dimen>
+    <dimen name="_15dp">12dp</dimen>
+    <dimen name="_20dp">17dp</dimen>
+    <dimen name="_25dp">21dp</dimen>
+    <dimen name="_30dp">25dp</dimen>
+    <dimen name="_35dp">30dp</dimen>
+    <dimen name="_40dp">35dp</dimen>
+    <dimen name="_48dp">43dp</dimen>
+
+    <dimen name="_80dp">72dp</dimen>
+
+    <dimen name="_115dp">105dp</dimen>
+
+    <!--Login screen margin for login title-->
+    <dimen name="_100dp">100dp</dimen>
+    <dimen name="_200dp">200dp</dimen>
+    <dimen name="_300dp">300dp</dimen>
+    <dimen name="_400dp">400dp</dimen>
+
+    <dimen name="_150dp">150dp</dimen>
+    <dimen name="_250dp">250dp</dimen>
+    <dimen name="_350dp">350dp</dimen>
+    <dimen name="_450dp">450dp</dimen>
+
+
+</resources>

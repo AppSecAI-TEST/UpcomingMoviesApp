@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UpcomingMoviesApp</string>
+
+    <string name="response">results</string>
+    <string name="Status">Status</string>
+    <string name="succeed">succeed</string>
+
+
+
+
+
+</resources>
